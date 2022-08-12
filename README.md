@@ -7,7 +7,7 @@ Please Find all the my work repository. If you found any difficulty in something
 - 🌱 I’m currently learning various Protocols like SPI,I2C,CAN etc.
 - 📫 How to reach me : 
 - [Mail](mailto:mustakim3000@gmail.com)
-- [ LinkedIn](www.linkedin.com/in/mustakim300/) 
+- [LinkedIn](www.linkedin.com/in/mustakim300/) 
 
 
 
