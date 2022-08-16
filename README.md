@@ -1,7 +1,7 @@
 ### Hi 👋
 
 - 🔭 I’m  Embedded C dev.
-- 🌱 I’m currently enhancing my skills set.
+- 🌱 I’m currently working on my skills set.
 - 📫 How to reach me : [Mail](mailto:mustakim3000@gmail.com) &[ LinkedIn](https://www.linkedin.com/in/mustakim300/) 
 
 I am Embedded dev looking to solve real world problems. I have passion for learning and sharing my knowledge with others.
