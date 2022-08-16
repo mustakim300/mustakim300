@@ -11,7 +11,7 @@ I also have social media platforms  **`ElectroCircuit`**  where I regularly publ
 
     Social Platforms
     
-[<img  src="https://user-images.githubusercontent.com/68029648/184535879-0c17d90b-c138-4e1f-a84a-209537742a0c.png"  width="25"  height="24">](https://instagram.com/electrocircuit_) **`Instagram`**  _______  [<img  src="https://user-images.githubusercontent.com/68029648/184535885-cb978413-89f9-4530-b928-39d351a40b78.png"  width="25"  height="27">](https://m.youtube.com/c/ElectroCircuit) **`YouTube`**_______[<img  src="https://user-images.githubusercontent.com/68029648/184535351-df998797-85e2-4669-8518-a0e8a737a928.png"  width="25"  height="25">](https://electrocircuit.net/)  **`Website`**
+[<img  src="https://user-images.githubusercontent.com/68029648/184535879-0c17d90b-c138-4e1f-a84a-209537742a0c.png"  width="25"  height="24">](https://instagram.com/electrocircuit_) **`Instagram`**  ________  [<img  src="https://user-images.githubusercontent.com/68029648/184535885-cb978413-89f9-4530-b928-39d351a40b78.png"  width="25"  height="27">](https://m.youtube.com/c/ElectroCircuit) **`YouTube`**_______[<img  src="https://user-images.githubusercontent.com/68029648/184535351-df998797-85e2-4669-8518-a0e8a737a928.png"  width="25"  height="25">](https://electrocircuit.net/)  **`Website`**
 
 ---
 ### Repository List :
