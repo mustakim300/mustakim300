@@ -1,7 +1,8 @@
+
 ### Hi 👋
 
 - 🔭 I’m  Embedded C dev.
-- 🌱 I’m currently working on my skills set.
+- 🌱 I’m currently working on my skill set.
 - 📫 How to reach me : [Mail](mailto:mustakim3000@gmail.com) &[ LinkedIn](https://www.linkedin.com/in/mustakim300/) 
 
 I am Embedded dev looking to solve real world problems. I have passion for learning and sharing my knowledge with others.
@@ -11,7 +12,7 @@ I also have social media platforms  **`ElectroCircuit`**  where I regularly publ
 
     Social Platforms
     
-[<img  src="https://user-images.githubusercontent.com/68029648/184535879-0c17d90b-c138-4e1f-a84a-209537742a0c.png"  width="25"  height="24">](https://instagram.com/electrocircuit_) **`Instagram`**  ________  [<img  src="https://user-images.githubusercontent.com/68029648/184535885-cb978413-89f9-4530-b928-39d351a40b78.png"  width="25"  height="27">](https://m.youtube.com/c/ElectroCircuit) **`YouTube`**_______[<img  src="https://user-images.githubusercontent.com/68029648/184535351-df998797-85e2-4669-8518-a0e8a737a928.png"  width="25"  height="25">](https://electrocircuit.net/)  **`Website`**
+[<img  src="https://user-images.githubusercontent.com/68029648/184535879-0c17d90b-c138-4e1f-a84a-209537742a0c.png"  width="25"  height="24">](https://instagram.com/electrocircuit_) **`Instagram`**  ________  [<img  src="https://user-images.githubusercontent.com/68029648/185141493-5b881e5a-8195-41c7-92f6-64d399ae1298.png"  width="30"  height="32">](https://m.youtube.com/c/ElectroCircuit) **`YouTube`**_______[<img  src="https://user-images.githubusercontent.com/68029648/185141443-203d7bee-d1a2-4ca5-b8a4-e90a57a48e8e.png"  width="27"  height="27">](https://electrocircuit.net/)  **`Website`**
 
 ---
 ### Repository List :
