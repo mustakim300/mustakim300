@@ -14,14 +14,7 @@ I also have social media platforms  **`ElectroCircuit`**  where I regularly publ
     
 
 
-[<img  src="https://user-images.githubusercontent.com/68029648/188151236-980e6806-54d4-4c9b-aece-40fe09920cc7.jpg"  width="110"  height="40">](https://instagram.com/electrocircuit_) [<img  src="https://user-images.githubusercontent.com/68029648/188151224-489cb30e-18c0-43ee-b129-51e41e9b637e.jpg"  width="110"  height="40">](https://m.youtube.com/c/ElectroCircuit) [<img  src="https://user-images.githubusercontent.com/68029648/188151209-6da9d42d-7acf-43d1-99c8-e45f8aa4936f.jpg"  width="110"  height="40">](https://electrocircuit.net/) [<img  src="https://user-images.githubusercontent.com/68029648/188153104-b864a0f1-90c3-40b8-9b62-7b55cba1d28f.jpg"  width="100"  height="40">](https://github.com/Electro-Circuit)
-
-
-
-
-
-
-
+[<img  src="https://user-images.githubusercontent.com/68029648/188151236-980e6806-54d4-4c9b-aece-40fe09920cc7.jpg"  width="110"  height="40">](https://instagram.com/electrocircuit_)[<img  src="https://user-images.githubusercontent.com/68029648/188151224-489cb30e-18c0-43ee-b129-51e41e9b637e.jpg"  width="110"  height="40">](https://m.youtube.com/c/ElectroCircuit)[<img  src="https://user-images.githubusercontent.com/68029648/188151209-6da9d42d-7acf-43d1-99c8-e45f8aa4936f.jpg"  width="110"  height="40">](https://electrocircuit.net/)[<img  src="https://user-images.githubusercontent.com/68029648/188157294-9694b572-a13d-4252-a8b8-611ddd3fd819.jpg"  width="100"  height="40">](https://github.com/Electro-Circuit)
 
 
 
@@ -37,6 +30,5 @@ I also have social media platforms  **`ElectroCircuit`**  where I regularly publ
 
 
 ![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=mustakim300&layout=compact)
-
 
 
