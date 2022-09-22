@@ -24,7 +24,7 @@ I also have social media platforms  **`ElectroCircuit`**  where I regularly publ
 - [**STM32-Projects**](https://github.com/mustakim300/STM-Projects)
 - **[Arduino-Projects](https://github.com/mustakim300/Arduino-Projects)**
 - [**Machine-Learning**](https://github.com/mustakim300/Machine-Learning)
-- [**Instagram Projects Code**](https://github.com/mustakim300/Projects_Code)
+
 
 
 
